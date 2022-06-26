@@ -27,7 +27,7 @@ E1E8EB white */
    
         content: "";
         /* position: relative; */
-        background: url('book3.png'); 
+        background: url('book4.png'); 
         /* background-size: 1903px 1655px; */
         background-repeat: no-repeat ;
         /* background:; */
@@ -39,7 +39,7 @@ E1E8EB white */
         /* left: 0px; */
         /* width: 100%; */
         /* z-index: 90; */
-        opacity: 0.2;
+        opacity: 0.5;
         position: absolute;
         display: flex;
         justify-content: center;
